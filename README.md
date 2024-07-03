@@ -1,7 +1,4 @@
 # Giggle
-This repository contains all the files of my final project "Giggle"
-
-# YOUR PROJECT TITLE
 #### Video Demo:  <URL HERE>
 #### Description:
 Giggle is an interactive chat web application that offers seamless login and sign-up functionalities, allowing users to engage in real-time conversations with enhanced security features. Built with modern web technologies, Giggle ensures a user-friendly experience and secure data handling.
