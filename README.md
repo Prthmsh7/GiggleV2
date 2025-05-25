@@ -8,7 +8,3 @@ npm run build
 
 ### Start the app
 npm start
-
-
-2yiZC4EpyAZz2HXi
-mongodb+srv://prathmeshshukla2106:2yiZC4EpyAZz2HXi@cluster0.gxnai8e.mongodb.net/
